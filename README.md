@@ -117,3 +117,5 @@ Ballpark figures are also used everywhere in the business world, such as estimat
 <div align="right">
     <b><a href="#">↥ back to top</a></b>
 </div>
+
+Thanks
